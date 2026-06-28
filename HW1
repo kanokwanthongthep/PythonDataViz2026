@@ -25,13 +25,13 @@
         "print('ID673020243-5')"
       ],
       "metadata": {
-        "id": "GEk8wdWGIgm0",
-        "outputId": "a7d8c5b8-4656-4e38-ac71-40d79d40911f",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "GEk8wdWGIgm0",
+        "outputId": "a7d8c5b8-4656-4e38-ac71-40d79d40911f"
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -45,8 +45,6 @@
   ],
   "metadata": {
     "colab": {
-      "name": "Welcome To Colab",
-      "toc_visible": true,
       "provenance": [],
       "include_colab_link": true
     },
